@@ -1,4 +1,4 @@
-package com.naren.slicepaytest.adapter;
+package com.naren.recyclerviewasgrid.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -12,8 +12,8 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
-import com.naren.slicepaytest.R;
-import com.naren.slicepaytest.models.ImageMeta;
+import com.naren.recyclerviewasgrid.R;
+import com.naren.recyclerviewasgrid.models.ImageMeta;
 
 import java.util.ArrayList;
 import java.util.List;

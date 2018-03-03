@@ -1,4 +1,4 @@
-package com.naren.slicepaytest.activity;
+package com.naren.recyclerviewasgrid.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -9,10 +9,10 @@ import android.widget.RelativeLayout;
 import android.widget.SearchView;
 import android.widget.Toast;
 
-import com.naren.slicepaytest.R;
-import com.naren.slicepaytest.adapter.ImagesGridViewAdapter;
-import com.naren.slicepaytest.managers.ImageLoadingManager;
-import com.naren.slicepaytest.models.ImageMeta;
+import com.naren.recyclerviewasgrid.R;
+import com.naren.recyclerviewasgrid.adapter.ImagesGridViewAdapter;
+import com.naren.recyclerviewasgrid.managers.ImageLoadingManager;
+import com.naren.recyclerviewasgrid.models.ImageMeta;
 
 import java.util.List;
 

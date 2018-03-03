@@ -1,4 +1,4 @@
-package com.naren.slicepaytest.network;
+package com.naren.recyclerviewasgrid.network;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

@@ -1,4 +1,4 @@
-package com.naren.slicepaytest.network;
+package com.naren.recyclerviewasgrid.network;
 
 import com.google.gson.JsonElement;
 

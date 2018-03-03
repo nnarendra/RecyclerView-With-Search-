@@ -1,11 +1,11 @@
-package com.naren.slicepaytest.activity;
+package com.naren.recyclerviewasgrid.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 
-import com.naren.slicepaytest.R;
+import com.naren.recyclerviewasgrid.R;
 
 
 /**

@@ -1,4 +1,4 @@
-package com.naren.slicepaytest.utils;
+package com.naren.recyclerviewasgrid.utils;
 
 import android.util.Log;
 

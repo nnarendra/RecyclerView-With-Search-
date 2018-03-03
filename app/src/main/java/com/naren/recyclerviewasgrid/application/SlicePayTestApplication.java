@@ -1,9 +1,9 @@
-package com.naren.slicepaytest.application;
+package com.naren.recyclerviewasgrid.application;
 
 import android.app.Application;
 
-import com.naren.slicepaytest.network.ApiClient;
-import com.naren.slicepaytest.network.ApiInterface;
+import com.naren.recyclerviewasgrid.network.ApiClient;
+import com.naren.recyclerviewasgrid.network.ApiInterface;
 
 /**
  * Created by narendra on 20/01/18.

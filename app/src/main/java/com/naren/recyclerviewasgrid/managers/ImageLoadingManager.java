@@ -1,4 +1,4 @@
-package com.naren.slicepaytest.managers;
+package com.naren.recyclerviewasgrid.managers;
 
 import android.util.Log;
 
@@ -6,9 +6,9 @@ import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
-import com.naren.slicepaytest.application.SlicePayTestApplication;
-import com.naren.slicepaytest.models.ImageMeta;
-import com.naren.slicepaytest.utils.GSONUtility;
+import com.naren.recyclerviewasgrid.application.SlicePayTestApplication;
+import com.naren.recyclerviewasgrid.models.ImageMeta;
+import com.naren.recyclerviewasgrid.utils.GSONUtility;
 
 import java.util.ArrayList;
 import java.util.List;

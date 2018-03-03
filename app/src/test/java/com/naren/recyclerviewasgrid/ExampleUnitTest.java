@@ -1,4 +1,4 @@
-package com.naren.slicepaytest;
+package com.naren.recyclerviewasgrid;
 
 import org.junit.Test;
 

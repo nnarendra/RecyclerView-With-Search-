@@ -1,4 +1,4 @@
-package com.naren.slicepaytest.models;
+package com.naren.recyclerviewasgrid.models;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

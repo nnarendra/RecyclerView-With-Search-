@@ -1,4 +1,4 @@
-package com.naren.slicepaytest;
+package com.naren.recyclerviewasgrid;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
